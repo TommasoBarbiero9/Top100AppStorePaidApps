@@ -1,8 +1,9 @@
 # TopAppStorePaidApps
 
-        Started: planning the app’s structure (following MVC pattern), opted for the storyboard usage, 
-        collected basic knowledge of UIKit components, started creating the basic interface keeping in mind
-        what kind of data it’s needed to show: name, image, summary, price and id.
+        Started: planning the app’s structure (following MVC pattern), 
+        opted for the storyboard usage, collected basic knowledge of UIKit components,
+        started creating the basic interface keeping in mind what kind of data it’s
+        needed to show: name, image, summary, price and id.
         Decided to opt for the same design the App Store has and use it as reference.
         The accent color is the one I assume is the company’s main one.
 
