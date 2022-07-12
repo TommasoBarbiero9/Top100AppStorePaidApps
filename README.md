@@ -1,4 +1,4 @@
-# Top100AppStorePaidApps
+# TopAppStorePaidApps
 
         Started: planning the app’s structure (following MVC pattern), opted for the storyboard usage, 
         collected basic knowledge of UIKit components, started creating the basic interface keeping in mind
