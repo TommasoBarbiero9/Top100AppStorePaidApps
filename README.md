@@ -7,6 +7,9 @@
         The accent color is the one I assume is the company’s main one.
 
 
+API Endpoint used:
+https://itunes.apple.com/us/rss/toppaidapplications/limit=200/json
+
 NOTES:
 -Couldn’t use the newest swift’s concurrency (async/await) because of the task assigned (it was asked to deploy an app for iOS 12)
 -Want to point out the API Endpoint actually shows only 99 entries even though the url says 200
